@@ -1,0 +1,2 @@
+# Esta carpeta contendrá los componentes del e-commerce (NavBar, CartWidget, ItemListContainer, etc.)
+# Se utiliza .gitkeep para que Git conserve la carpeta aunque aún no tenga componentes.
