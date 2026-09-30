@@ -1,13 +1,32 @@
-# Coderhouse - Tarea 01 - 30/09
+# Tienda Mate
 
-E-Commerce: Tienda Mate! \
-Tienda creada para vender todo tipo de cosas relacionadas con el mate
+E-Commerce desarrollado para la Pre-entrega 1 del curso de React en Coderhouse.
+Tienda creada para vender todo tipo de productos relacionados con el mate.
 
-# Tecnologias utilizadas
+## Tecnologías utilizadas
 
-HTML, CSS, JAVASCRIPT, REACT
+- HTML
+- CSS
+- JavaScript
+- React 19
+- Vite
 
-# Cómo ejecutar la aplicacion:
+## Cómo instalar y ejecutar la aplicación
 
-> npm create vite@latest \
-> npm run dev
+1. Clonar el repositorio:
+   ```bash
+   git clone <URL_DEL_REPOSITORIO>
+   ```
+2. Entrar a la carpeta del proyecto:
+   ```bash
+   cd coderhouse-react-tarea-001
+   ```
+3. Instalar dependencias:
+   ```bash
+   npm install
+   ```
+4. Ejecutar en modo desarrollo:
+   ```bash
+   npm run dev
+   ```
+5. Abrir en el navegador la URL que muestra la terminal (por defecto http://localhost:5173).
