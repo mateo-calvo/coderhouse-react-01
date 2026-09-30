@@ -15,7 +15,7 @@ Tienda creada para vender todo tipo de productos relacionados con el mate.
 
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/mateo-calvo/coderhouse-react-01.git
    ```
 2. Entrar a la carpeta del proyecto:
    ```bash
